@@ -1,0 +1,1 @@
+This section has a rotating list of testimonials. It uses HTML tags and attributes, CSS for layout and transitions for when testimonials change, and JavaScript and DOM manipulation to change the testimonial every few seconds.
