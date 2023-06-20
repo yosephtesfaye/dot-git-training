@@ -1,0 +1,1 @@
+This page introduces the portfolio owner and uses basic HTML tags, CSS styling, CSS box model, CSS layout and positioning, and JavaScript for a dynamic greeting.
